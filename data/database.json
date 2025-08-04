@@ -1,0 +1,259 @@
+{
+  "users": [
+    {
+      "id": "2ab82f97-2154-4041-a6b5-1713a8b02333",
+      "username": "dfewrewr",
+      "isOnline": true,
+      "lastSeen": "2025-08-04T21:09:26.088Z",
+      "createdAt": "2025-08-04T20:44:44.374Z"
+    },
+    {
+      "id": "08209d89-d64d-4aae-add5-651eeac3e5c1",
+      "username": "wer",
+      "isOnline": false,
+      "lastSeen": "2025-08-04T21:03:13.745Z",
+      "createdAt": "2025-08-04T20:52:53.251Z"
+    },
+    {
+      "id": "67e2d990-c506-41c0-9247-bcbd97eee08b",
+      "username": "billing@hospital.com",
+      "isOnline": true,
+      "lastSeen": "2025-08-04T21:09:27.071Z",
+      "createdAt": "2025-08-04T21:05:00.240Z"
+    }
+  ],
+  "groups": {
+    "general": {
+      "id": "general",
+      "name": "General",
+      "description": "General discussion for everyone",
+      "members": [],
+      "messages": [
+        {
+          "id": "0439c451-68b6-4fea-b2e0-1ce4944a84ac",
+          "type": "text",
+          "text": "Rbc2DX",
+          "groupId": "general",
+          "sender": "dfewrewr",
+          "senderInfo": {
+            "id": "2ab82f97-2154-4041-a6b5-1713a8b02333",
+            "username": "dfewrewr",
+            "isOnline": true,
+            "lastSeen": "2025-08-04T20:45:44.174Z",
+            "createdAt": "2025-08-04T20:44:44.374Z"
+          },
+          "timestamp": "2025-08-04T20:45:47.551Z",
+          "isEncrypted": true,
+          "viewedBy": [],
+          "encryptedAt": "2025-08-04T20:54:55.433Z"
+        },
+        {
+          "id": "ea4d311c-b0c3-44c5-a3a6-d7e832ff8c39",
+          "type": "text",
+          "text": "5hxq",
+          "groupId": "general",
+          "sender": "dfewrewr",
+          "senderInfo": {
+            "id": "2ab82f97-2154-4041-a6b5-1713a8b02333",
+            "username": "dfewrewr",
+            "isOnline": true,
+            "lastSeen": "2025-08-04T20:45:44.174Z",
+            "createdAt": "2025-08-04T20:44:44.374Z"
+          },
+          "timestamp": "2025-08-04T20:46:35.449Z",
+          "isEncrypted": true,
+          "viewedBy": [],
+          "encryptedAt": "2025-08-04T20:54:55.467Z"
+        },
+        {
+          "id": "1da90c2d-cdb2-44e2-a55c-ec54434dfae9",
+          "type": "text",
+          "text": "DClYPP",
+          "groupId": "general",
+          "sender": "dfewrewr",
+          "senderInfo": {
+            "id": "2ab82f97-2154-4041-a6b5-1713a8b02333",
+            "username": "dfewrewr",
+            "isOnline": true,
+            "lastSeen": "2025-08-04T20:45:44.174Z",
+            "createdAt": "2025-08-04T20:44:44.374Z"
+          },
+          "timestamp": "2025-08-04T20:47:15.797Z",
+          "isEncrypted": true,
+          "viewedBy": [],
+          "encryptedAt": "2025-08-04T20:54:55.495Z"
+        },
+        {
+          "id": "d3124f61-3793-4909-afa1-dcbae8d9cf18",
+          "type": "text",
+          "text": "McLJk6L",
+          "groupId": "general",
+          "sender": "wer",
+          "senderInfo": {
+            "id": "08209d89-d64d-4aae-add5-651eeac3e5c1",
+            "username": "wer",
+            "isOnline": true,
+            "lastSeen": "2025-08-04T20:54:40.640Z",
+            "createdAt": "2025-08-04T20:52:53.251Z"
+          },
+          "timestamp": "2025-08-04T20:55:02.081Z",
+          "isEncrypted": true,
+          "viewedBy": [],
+          "encryptedAt": "2025-08-04T20:55:43.441Z"
+        },
+        {
+          "id": "f95b5496-3c92-4f92-a795-c97353473f47",
+          "type": "text",
+          "text": "4Df6$f",
+          "groupId": "general",
+          "sender": "wer",
+          "senderInfo": {
+            "id": "08209d89-d64d-4aae-add5-651eeac3e5c1",
+            "username": "wer",
+            "isOnline": true,
+            "lastSeen": "2025-08-04T20:54:40.640Z",
+            "createdAt": "2025-08-04T20:52:53.251Z"
+          },
+          "timestamp": "2025-08-04T20:55:11.373Z",
+          "isEncrypted": true,
+          "viewedBy": [],
+          "encryptedAt": "2025-08-04T20:55:43.455Z"
+        },
+        {
+          "id": "eedeb14e-2296-4aa7-a29d-5df3fba92eac",
+          "type": "text",
+          "text": "fMx",
+          "groupId": "general",
+          "sender": "dfewrewr",
+          "senderInfo": {
+            "id": "2ab82f97-2154-4041-a6b5-1713a8b02333",
+            "username": "dfewrewr",
+            "isOnline": true,
+            "lastSeen": "2025-08-04T20:54:40.404Z",
+            "createdAt": "2025-08-04T20:44:44.374Z"
+          },
+          "timestamp": "2025-08-04T20:55:44.723Z",
+          "isEncrypted": true,
+          "viewedBy": [],
+          "encryptedAt": "2025-08-04T20:55:59.528Z"
+        },
+        {
+          "id": "8af3b71d-ca3a-426b-9577-4added1870a9",
+          "type": "text",
+          "text": "hy",
+          "groupId": "general",
+          "sender": "dfewrewr",
+          "senderInfo": {
+            "id": "2ab82f97-2154-4041-a6b5-1713a8b02333",
+            "username": "dfewrewr",
+            "isOnline": true,
+            "lastSeen": "2025-08-04T20:54:40.404Z",
+            "createdAt": "2025-08-04T20:44:44.374Z"
+          },
+          "timestamp": "2025-08-04T20:55:56.824Z",
+          "isEncrypted": true,
+          "viewedBy": [],
+          "encryptedAt": "2025-08-04T20:55:59.238Z"
+        },
+        {
+          "id": "6c36f9e7-7a95-4c7d-9a16-4f345c5eb34e",
+          "type": "text",
+          "text": "qweqeqw",
+          "groupId": "general",
+          "sender": "billing@hospital.com",
+          "senderInfo": {
+            "id": "67e2d990-c506-41c0-9247-bcbd97eee08b",
+            "username": "billing@hospital.com",
+            "isOnline": true,
+            "lastSeen": "2025-08-04T21:09:27.071Z",
+            "createdAt": "2025-08-04T21:05:00.240Z"
+          },
+          "timestamp": "2025-08-04T21:10:37.911Z",
+          "isEncrypted": false,
+          "viewedBy": []
+        },
+        {
+          "id": "c59c907b-d9cb-472e-8d1e-6c6f40644d97",
+          "type": "text",
+          "text": "wqewqewq",
+          "groupId": "general",
+          "sender": "billing@hospital.com",
+          "senderInfo": {
+            "id": "67e2d990-c506-41c0-9247-bcbd97eee08b",
+            "username": "billing@hospital.com",
+            "isOnline": true,
+            "lastSeen": "2025-08-04T21:09:27.071Z",
+            "createdAt": "2025-08-04T21:05:00.240Z"
+          },
+          "timestamp": "2025-08-04T21:10:43.002Z",
+          "isEncrypted": false,
+          "viewedBy": []
+        },
+        {
+          "id": "a7f47af3-d584-4734-ae62-6e58e43b4565",
+          "type": "text",
+          "text": "qweqwe",
+          "groupId": "general",
+          "sender": "billing@hospital.com",
+          "senderInfo": {
+            "id": "67e2d990-c506-41c0-9247-bcbd97eee08b",
+            "username": "billing@hospital.com",
+            "isOnline": true,
+            "lastSeen": "2025-08-04T21:09:27.071Z",
+            "createdAt": "2025-08-04T21:05:00.240Z"
+          },
+          "timestamp": "2025-08-04T21:10:44.530Z",
+          "isEncrypted": false,
+          "viewedBy": []
+        }
+      ],
+      "createdBy": "system",
+      "createdAt": "2025-08-04T20:20:59.837Z",
+      "isPrivate": false
+    },
+    "test-group": {
+      "id": "test-group",
+      "name": "test group",
+      "description": "test description",
+      "members": [
+        "2ab82f97-2154-4041-a6b5-1713a8b02333"
+      ],
+      "messages": [
+        {
+          "id": "8e09282b-ddc6-4dd6-8440-937126acb6ca",
+          "type": "text",
+          "text": "qwewq",
+          "groupId": "test-group",
+          "sender": "dfewrewr",
+          "senderInfo": {
+            "id": "2ab82f97-2154-4041-a6b5-1713a8b02333",
+            "username": "dfewrewr",
+            "isOnline": true,
+            "lastSeen": "2025-08-04T21:08:34.658Z",
+            "createdAt": "2025-08-04T20:44:44.374Z"
+          },
+          "timestamp": "2025-08-04T21:08:44.716Z",
+          "isEncrypted": false,
+          "viewedBy": []
+        }
+      ],
+      "createdBy": "2ab82f97-2154-4041-a6b5-1713a8b02333",
+      "createdAt": "2025-08-04T20:47:11.271Z",
+      "isPrivate": false
+    }
+  },
+  "calls": [
+    {
+      "id": "19f1f042-58e2-4f78-8809-5b6d1edb4557",
+      "type": "voice",
+      "groupId": "general",
+      "initiator": "2ab82f97-2154-4041-a6b5-1713a8b02333",
+      "participants": [
+        "2ab82f97-2154-4041-a6b5-1713a8b02333"
+      ],
+      "status": "pending",
+      "startedAt": "2025-08-04T20:46:02.306Z"
+    }
+  ],
+  "files": []
+}
