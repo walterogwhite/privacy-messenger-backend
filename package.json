@@ -1,24 +1,36 @@
 {
   "name": "privacy-messenger-backend",
   "version": "1.0.0",
-  "description": "Privacy messenger backend with disappearing messages and media sharing",
+  "description": "Privacy Messenger Backend with Socket.io",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "dev": "nodemon index.js"
+    "dev": "nodemon index.js",
+    "build": "echo 'No build step required'"
   },
-  "keywords": ["privacy", "messenger", "chat"],
-  "author": "",
-  "license": "ISC",
+  "engines": {
+    "node": ">=18.0.0"
+  },
   "dependencies": {
+    "socket.io": "^4.7.5",
     "express": "^4.18.2",
-    "socket.io": "^4.7.2",
     "cors": "^2.8.5",
-    "multer": "^1.4.5",
-    "uuid": "^9.0.0",
-    "fs-extra": "^11.1.1"
+    "helmet": "^7.1.0",
+    "dotenv": "^16.3.1",
+    "uuid": "^9.0.1",
+    "multer": "^2.0.2",
+    "compression": "^1.7.4"
   },
   "devDependencies": {
-    "nodemon": "^3.0.1"
-  }
+    "nodemon": "^3.0.2"
+  },
+  "keywords": [
+    "socket.io",
+    "chat",
+    "privacy",
+    "messaging",
+    "real-time"
+  ],
+  "author": "Privacy Messenger Team",
+  "license": "MIT"
 }
